@@ -1,8 +1,6 @@
 # PresentationGesture_openCV
-in this prj you can control your presentation Slide with just your hand to present better in quality 
+in this project you can control your presentation Slide with just your hand to present better in quality 
 
-
-![](https://github.com/mohammadst99/PresentationGesture_openCV/blob/main/screen.png)
 
 # Libraries
 
