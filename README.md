@@ -30,8 +30,6 @@ gesture is :
 > three finger to clear your writing 
 
 
-![](https://github.com/mohammadst99/PresentationGesture_openCV/blob/main/test.gif)
-
 
 # Explain Code
 
